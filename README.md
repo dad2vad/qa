@@ -1,2 +1,0 @@
-# qa
-Created with CodeSandbox
